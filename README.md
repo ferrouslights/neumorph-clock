@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Neumorphic Clock
+
+<img src="https://github.com/ferrouslights/neumorph-clock/raw/master/preview.png" width="600">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
