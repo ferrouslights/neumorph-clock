@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is a design test for a simple neumorph clock. It is built with React, TS, and Styled Components. I like that this visually looks like a soft silicone material. This is designed for desktop viewing but is responsive for mobile as well.
+
 ## Available Scripts
 
 In the project directory, you can run:
